@@ -1,0 +1,6 @@
+[submodule "sculptml-ios-app"]
+	path = sculptml-ios-app
+	url = git@github.com:ngundotra/sculptml-ios-app.git
+[submodule "sculptml-flask-app"]
+	path = sculptml-flask-app
+	url = git@github.com:ngundotra/sculptml-flask-app.git
